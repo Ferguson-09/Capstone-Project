@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="FinanceMarketSimulator.API/FinanceMarketSimulator.API.csproj" />
+  <Project Path="FinanceMarketSimulator.BLL/FinanceMarketSimulator.BLL.csproj" />
+  <Project Path="FinanceMarketSimulator.DAL/FinanceMarketSimulator.DAL.csproj" />
+  <Project Path="FinanceMarketSimulator.Tests/FinanceMarketSimulator.Tests.csproj" />
+</Solution>

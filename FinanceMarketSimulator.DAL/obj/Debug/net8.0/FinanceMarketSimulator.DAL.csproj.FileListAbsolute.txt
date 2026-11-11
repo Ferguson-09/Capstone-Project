@@ -1,0 +1,14 @@
+/Users/xl/Desktop/Second section/FinanceMarketSimulator/FinanceMarketSimulator.DAL/bin/Debug/net8.0/FinanceMarketSimulator.DAL.deps.json
+/Users/xl/Desktop/Second section/FinanceMarketSimulator/FinanceMarketSimulator.DAL/bin/Debug/net8.0/FinanceMarketSimulator.DAL.dll
+/Users/xl/Desktop/Second section/FinanceMarketSimulator/FinanceMarketSimulator.DAL/bin/Debug/net8.0/FinanceMarketSimulator.DAL.pdb
+/Users/xl/Desktop/Second section/FinanceMarketSimulator/FinanceMarketSimulator.DAL/obj/Debug/net8.0/FinanceMarketSimulator.DAL.GeneratedMSBuildEditorConfig.editorconfig
+/Users/xl/Desktop/Second section/FinanceMarketSimulator/FinanceMarketSimulator.DAL/obj/Debug/net8.0/FinanceMarketSimulator.DAL.AssemblyInfoInputs.cache
+/Users/xl/Desktop/Second section/FinanceMarketSimulator/FinanceMarketSimulator.DAL/obj/Debug/net8.0/FinanceMarketSimulator.DAL.AssemblyInfo.cs
+/Users/xl/Desktop/Second section/FinanceMarketSimulator/FinanceMarketSimulator.DAL/obj/Debug/net8.0/FinanceMarketSimulator.DAL.csproj.CoreCompileInputs.cache
+/Users/xl/Desktop/Second section/FinanceMarketSimulator/FinanceMarketSimulator.DAL/obj/Debug/net8.0/FinanceMarketSimulator.DAL.dll
+/Users/xl/Desktop/Second section/FinanceMarketSimulator/FinanceMarketSimulator.DAL/obj/Debug/net8.0/refint/FinanceMarketSimulator.DAL.dll
+/Users/xl/Desktop/Second section/FinanceMarketSimulator/FinanceMarketSimulator.DAL/obj/Debug/net8.0/FinanceMarketSimulator.DAL.pdb
+/Users/xl/Desktop/Second section/FinanceMarketSimulator/FinanceMarketSimulator.DAL/obj/Debug/net8.0/ref/FinanceMarketSimulator.DAL.dll
+/Users/xl/Desktop/Second section/FinanceMarketSimulator/FinanceMarketSimulator.DAL/bin/Debug/net8.0/FinanceMarketSimulator.DAL.runtimeconfig.json
+/Users/xl/Desktop/Second section/FinanceMarketSimulator/FinanceMarketSimulator.DAL/obj/Debug/net8.0/FinanceMarketSimulator.DAL.csproj.AssemblyReference.cache
+/Users/xl/Desktop/Second section/FinanceMarketSimulator/FinanceMarketSimulator.DAL/obj/Debug/net8.0/FinanceMarketSimulator.DAL.genruntimeconfig.cache

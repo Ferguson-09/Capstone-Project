@@ -1,0 +1,15 @@
+/Users/xl/Desktop/Second section/FinanceMarketSimulator/FinanceMarketSimulator.BLL/bin/Debug/net8.0/FinanceMarketSimulator.BLL.deps.json
+/Users/xl/Desktop/Second section/FinanceMarketSimulator/FinanceMarketSimulator.BLL/bin/Debug/net8.0/FinanceMarketSimulator.BLL.dll
+/Users/xl/Desktop/Second section/FinanceMarketSimulator/FinanceMarketSimulator.BLL/bin/Debug/net8.0/FinanceMarketSimulator.BLL.pdb
+/Users/xl/Desktop/Second section/FinanceMarketSimulator/FinanceMarketSimulator.BLL/obj/Debug/net8.0/FinanceMarketSimulator.BLL.GeneratedMSBuildEditorConfig.editorconfig
+/Users/xl/Desktop/Second section/FinanceMarketSimulator/FinanceMarketSimulator.BLL/obj/Debug/net8.0/FinanceMarketSimulator.BLL.AssemblyInfoInputs.cache
+/Users/xl/Desktop/Second section/FinanceMarketSimulator/FinanceMarketSimulator.BLL/obj/Debug/net8.0/FinanceMarketSimulator.BLL.AssemblyInfo.cs
+/Users/xl/Desktop/Second section/FinanceMarketSimulator/FinanceMarketSimulator.BLL/obj/Debug/net8.0/FinanceMarketSimulator.BLL.csproj.CoreCompileInputs.cache
+/Users/xl/Desktop/Second section/FinanceMarketSimulator/FinanceMarketSimulator.BLL/obj/Debug/net8.0/FinanceMarketSimulator.BLL.dll
+/Users/xl/Desktop/Second section/FinanceMarketSimulator/FinanceMarketSimulator.BLL/obj/Debug/net8.0/refint/FinanceMarketSimulator.BLL.dll
+/Users/xl/Desktop/Second section/FinanceMarketSimulator/FinanceMarketSimulator.BLL/obj/Debug/net8.0/FinanceMarketSimulator.BLL.pdb
+/Users/xl/Desktop/Second section/FinanceMarketSimulator/FinanceMarketSimulator.BLL/obj/Debug/net8.0/ref/FinanceMarketSimulator.BLL.dll
+/Users/xl/Desktop/Second section/FinanceMarketSimulator/FinanceMarketSimulator.BLL/bin/Debug/net8.0/FinanceMarketSimulator.DAL.dll
+/Users/xl/Desktop/Second section/FinanceMarketSimulator/FinanceMarketSimulator.BLL/bin/Debug/net8.0/FinanceMarketSimulator.DAL.pdb
+/Users/xl/Desktop/Second section/FinanceMarketSimulator/FinanceMarketSimulator.BLL/obj/Debug/net8.0/FinanceMarketSimulator.BLL.csproj.AssemblyReference.cache
+/Users/xl/Desktop/Second section/FinanceMarketSimulator/FinanceMarketSimulator.BLL/obj/Debug/net8.0/FinanceM.773C33FF.Up2Date
