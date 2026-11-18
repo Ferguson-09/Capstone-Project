@@ -12,3 +12,18 @@
 /Users/xl/Desktop/Second section/FinanceMarketSimulator/FinanceMarketSimulator.DAL/bin/Debug/net8.0/FinanceMarketSimulator.DAL.runtimeconfig.json
 /Users/xl/Desktop/Second section/FinanceMarketSimulator/FinanceMarketSimulator.DAL/obj/Debug/net8.0/FinanceMarketSimulator.DAL.csproj.AssemblyReference.cache
 /Users/xl/Desktop/Second section/FinanceMarketSimulator/FinanceMarketSimulator.DAL/obj/Debug/net8.0/FinanceMarketSimulator.DAL.genruntimeconfig.cache
+C:\Users\LENOVO\Capstone-Project\FinanceMarketSimulator.DAL\bin\Debug\net8.0\FinanceMarketSimulator.DAL.deps.json
+C:\Users\LENOVO\Capstone-Project\FinanceMarketSimulator.DAL\bin\Debug\net8.0\FinanceMarketSimulator.DAL.runtimeconfig.json
+C:\Users\LENOVO\Capstone-Project\FinanceMarketSimulator.DAL\bin\Debug\net8.0\FinanceMarketSimulator.DAL.dll
+C:\Users\LENOVO\Capstone-Project\FinanceMarketSimulator.DAL\bin\Debug\net8.0\FinanceMarketSimulator.DAL.pdb
+C:\Users\LENOVO\Capstone-Project\FinanceMarketSimulator.DAL\obj\Debug\net8.0\FinanceMarketSimulator.DAL.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Capstone-Project\FinanceMarketSimulator.DAL\obj\Debug\net8.0\FinanceMarketSimulator.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Capstone-Project\FinanceMarketSimulator.DAL\obj\Debug\net8.0\FinanceMarketSimulator.DAL.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Capstone-Project\FinanceMarketSimulator.DAL\obj\Debug\net8.0\FinanceMarketSimulator.DAL.AssemblyInfo.cs
+C:\Users\LENOVO\Capstone-Project\FinanceMarketSimulator.DAL\obj\Debug\net8.0\FinanceMarketSimulator.DAL.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Capstone-Project\FinanceMarketSimulator.DAL\obj\Debug\net8.0\FinanceMarketSimulator.DAL.sourcelink.json
+C:\Users\LENOVO\Capstone-Project\FinanceMarketSimulator.DAL\obj\Debug\net8.0\FinanceMarketSimulator.DAL.dll
+C:\Users\LENOVO\Capstone-Project\FinanceMarketSimulator.DAL\obj\Debug\net8.0\refint\FinanceMarketSimulator.DAL.dll
+C:\Users\LENOVO\Capstone-Project\FinanceMarketSimulator.DAL\obj\Debug\net8.0\FinanceMarketSimulator.DAL.pdb
+C:\Users\LENOVO\Capstone-Project\FinanceMarketSimulator.DAL\obj\Debug\net8.0\FinanceMarketSimulator.DAL.genruntimeconfig.cache
+C:\Users\LENOVO\Capstone-Project\FinanceMarketSimulator.DAL\obj\Debug\net8.0\ref\FinanceMarketSimulator.DAL.dll

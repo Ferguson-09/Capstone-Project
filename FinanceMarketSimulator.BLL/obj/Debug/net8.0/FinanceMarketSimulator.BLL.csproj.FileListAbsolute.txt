@@ -13,3 +13,19 @@
 /Users/xl/Desktop/Second section/FinanceMarketSimulator/FinanceMarketSimulator.BLL/bin/Debug/net8.0/FinanceMarketSimulator.DAL.pdb
 /Users/xl/Desktop/Second section/FinanceMarketSimulator/FinanceMarketSimulator.BLL/obj/Debug/net8.0/FinanceMarketSimulator.BLL.csproj.AssemblyReference.cache
 /Users/xl/Desktop/Second section/FinanceMarketSimulator/FinanceMarketSimulator.BLL/obj/Debug/net8.0/FinanceM.773C33FF.Up2Date
+C:\Users\LENOVO\Capstone-Project\FinanceMarketSimulator.BLL\bin\Debug\net8.0\FinanceMarketSimulator.BLL.deps.json
+C:\Users\LENOVO\Capstone-Project\FinanceMarketSimulator.BLL\bin\Debug\net8.0\FinanceMarketSimulator.BLL.dll
+C:\Users\LENOVO\Capstone-Project\FinanceMarketSimulator.BLL\bin\Debug\net8.0\FinanceMarketSimulator.BLL.pdb
+C:\Users\LENOVO\Capstone-Project\FinanceMarketSimulator.BLL\bin\Debug\net8.0\FinanceMarketSimulator.DAL.dll
+C:\Users\LENOVO\Capstone-Project\FinanceMarketSimulator.BLL\bin\Debug\net8.0\FinanceMarketSimulator.DAL.pdb
+C:\Users\LENOVO\Capstone-Project\FinanceMarketSimulator.BLL\obj\Debug\net8.0\FinanceMarketSimulator.BLL.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Capstone-Project\FinanceMarketSimulator.BLL\obj\Debug\net8.0\FinanceMarketSimulator.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Capstone-Project\FinanceMarketSimulator.BLL\obj\Debug\net8.0\FinanceMarketSimulator.BLL.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Capstone-Project\FinanceMarketSimulator.BLL\obj\Debug\net8.0\FinanceMarketSimulator.BLL.AssemblyInfo.cs
+C:\Users\LENOVO\Capstone-Project\FinanceMarketSimulator.BLL\obj\Debug\net8.0\FinanceMarketSimulator.BLL.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Capstone-Project\FinanceMarketSimulator.BLL\obj\Debug\net8.0\FinanceMarketSimulator.BLL.sourcelink.json
+C:\Users\LENOVO\Capstone-Project\FinanceMarketSimulator.BLL\obj\Debug\net8.0\FinanceM.773C33FF.Up2Date
+C:\Users\LENOVO\Capstone-Project\FinanceMarketSimulator.BLL\obj\Debug\net8.0\FinanceMarketSimulator.BLL.dll
+C:\Users\LENOVO\Capstone-Project\FinanceMarketSimulator.BLL\obj\Debug\net8.0\refint\FinanceMarketSimulator.BLL.dll
+C:\Users\LENOVO\Capstone-Project\FinanceMarketSimulator.BLL\obj\Debug\net8.0\FinanceMarketSimulator.BLL.pdb
+C:\Users\LENOVO\Capstone-Project\FinanceMarketSimulator.BLL\obj\Debug\net8.0\ref\FinanceMarketSimulator.BLL.dll
