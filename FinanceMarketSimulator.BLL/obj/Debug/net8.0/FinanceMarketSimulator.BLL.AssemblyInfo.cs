@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FinanceMarketSimulator.BLL")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6549fae16d1f1db6e3eadd2c344084c9ffc3339d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3b72001984b87bf66dc0c5945ee260e1c4c9a3f6")]
 [assembly: System.Reflection.AssemblyProductAttribute("FinanceMarketSimulator.BLL")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FinanceMarketSimulator.BLL")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
