@@ -12,6 +12,16 @@ builder.Services.AddDbContext<ApplicationDbContext>(options =>
         ServerVersion.AutoDetect(connectionString)
     ));
 
+// Register Personal Finance Services
+builder.Services.AddScoped<ICategoryService, CategoryService>();
+builder.Services.AddScoped<IFinancialAccountService, FinancialAccountService>();
+builder.Services.AddScoped<ITransactionService, TransactionService>();
+builder.Services.AddScoped<IBudgetService, BudgetService>();
+builder.Services.AddScoped<IReportService, ReportService>();
+
+// Add authorization services
+builder.Services.AddAuthorization();
+
 // Add services to the container.
 
 builder.Services.AddControllers();

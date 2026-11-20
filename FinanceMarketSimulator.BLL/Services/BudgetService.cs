@@ -36,10 +36,7 @@ namespace FinanceMarketSimulator.BLL.Services
             int id,
             string userId)
         {
-            var budget = await _context.Budgets
-                .Include(b => b.Category)
-                .FirstOrDefaultAsync(b =>
-                    b.Id == id && b.UserId == userId);
+            var budget = await _context.Budgets.Include(b => b.Category).FirstOrDefaultAsync(b =>b.Id == id && b.UserId == userId);
 
             if (budget == null)
             {
